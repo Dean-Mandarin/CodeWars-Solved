@@ -14,6 +14,7 @@
 const isSquare = function (n) {
   return Number.isInteger(Math.sqrt(n)) === true;
 }
+// bsfsldmf;smf;
 
 console.log(isSquare(25));
 console.log(isSquare(-1));
